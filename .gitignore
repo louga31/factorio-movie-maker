@@ -1,0 +1,16 @@
+# movie-player
+script/*.txt
+!script/.gitignore
+
+sources/*
+!sources/.gitignore
+
+images/*.bmp
+!images/.gitignore
+
+*.mp4
+
+# Python venv
+Lib/
+Scripts/
+pyvenv.cfg
